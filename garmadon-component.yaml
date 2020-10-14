@@ -6,9 +6,10 @@ metadata:
   tags:
     - java
   annotations:
+    backstage.io/techdocs-ref: dir:./
     github.com/project-slug: criteo-dexter/garmadon
     travis-ci.com/repo-slug: criteo-dexter/garmadon
 spec:
   type: service
-  lifecycle: experimental
+  lifecycle: production
   owner: lake@criteo.com
