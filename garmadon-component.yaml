@@ -7,7 +7,6 @@ metadata:
     - java
   annotations:
     backstage.io/techdocs-ref: dir:./
-    jenkins.io/github-folder: 'thirdparty-garmadon'
     travis-ci.com/repo-slug: criteo-dexter/garmadon
 spec:
   type: service
