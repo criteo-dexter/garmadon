@@ -8,7 +8,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:./
     travis-ci.com/repo-slug: criteo-dexter/garmadon
-    github.com/project-slug: criteo/garmadon
+    github.com/project-slug: criteo-dexter/garmadon
 spec:
   type: service
   lifecycle: experimental
