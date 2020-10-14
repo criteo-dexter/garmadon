@@ -7,7 +7,6 @@ metadata:
     - java
   annotations:
     backstage.io/techdocs-ref: dir:./
-    github.com/project-slug: criteo-dexter/garmadon
     travis-ci.com/repo-slug: canut/coreprotocols-fr
 spec:
   type: service
