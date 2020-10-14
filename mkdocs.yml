@@ -3,5 +3,7 @@ site_name: 'garmadon-docs'
 nav:
   - Home: index.md
 
+repo_url: https://github.com/criteo-dexter/garmadon/
+
 plugins:
   - techdocs-core
