@@ -5,6 +5,8 @@ metadata:
   description: Observability of your Hadoop job
   tags:
     - java
+  annotations:
+    backstage.io/techdocs-ref: dir:./
 spec:
   type: service
   lifecycle: experimental
