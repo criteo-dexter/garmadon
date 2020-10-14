@@ -10,4 +10,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: lake@criteo.com
+  owner: canut
